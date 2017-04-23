@@ -460,3 +460,7 @@
 1492941228649	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
 1492941230156	Marionette	INFO	Listening on port 32855
 1492941232989	Marionette	INFO	New connections will no longer be accepted
+1492949592768	geckodriver	INFO	Listening on 127.0.0.1:45631
+1492949593859	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1492949595354	Marionette	INFO	Listening on port 33585
+1492949598149	Marionette	INFO	New connections will no longer be accepted
